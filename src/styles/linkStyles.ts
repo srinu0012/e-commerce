@@ -1,0 +1,1 @@
+export let linkStyle={textDecoration:"none",color:"#333"}
